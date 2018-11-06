@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Baigudi.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>armv7</string>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>81DAD9DC330F4627623BFA2D110A50D301A413D4</string>
+				<key>dateExpires</key>
+				<string>2021/5/27</string>
+				<key>type</key>
+				<string>iOS Distribution</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>7EWVM5QLAU.com.baigudi.Baigudi</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>7EWVM5QLAU</string>
+				<key>get-task-allow</key>
+				<false/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>7EWVM5QLAU.com.baigudi.Baigudi</string>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>Baigudi.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>7dc2c27d-97e6-47a2-9dab-3a6fa0964f9e</string>
+				<key>name</key>
+				<string>iOS Team Inhouse Provisioning Profile: com.baigudi.Baigudi</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>7EWVM5QLAU</string>
+				<key>name</key>
+				<string>MingDao E-Commercial Co,Ltd</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
